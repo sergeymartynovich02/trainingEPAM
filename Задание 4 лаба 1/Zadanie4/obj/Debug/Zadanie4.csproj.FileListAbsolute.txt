@@ -5,3 +5,10 @@ C:\Users\Sergey\source\repos\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference
 C:\Users\Sergey\source\repos\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
 C:\Users\Sergey\source\repos\Zadanie4\obj\Debug\Zadanie4.exe
 C:\Users\Sergey\source\repos\Zadanie4\obj\Debug\Zadanie4.pdb
+D:\git\Задание 4 лаба 1\Zadanie4\bin\Debug\Zadanie4.exe.config
+D:\git\Задание 4 лаба 1\Zadanie4\bin\Debug\Zadanie4.exe
+D:\git\Задание 4 лаба 1\Zadanie4\bin\Debug\Zadanie4.pdb
+D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference.cache
+D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.exe
+D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.pdb

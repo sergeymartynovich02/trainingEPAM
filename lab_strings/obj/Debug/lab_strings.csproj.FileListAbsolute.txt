@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_strings\bin\Debug\lab_strings.exe.config
+C:\Users\Sergey\source\repos\lab_strings\bin\Debug\lab_strings.exe
+C:\Users\Sergey\source\repos\lab_strings\bin\Debug\lab_strings.pdb
+C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.exe
+C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.pdb
