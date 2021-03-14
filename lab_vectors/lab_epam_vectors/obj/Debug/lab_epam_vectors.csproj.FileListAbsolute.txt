@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_epam_vectors\bin\Debug\lab_epam_vectors.exe.config
+C:\Users\Sergey\source\repos\lab_epam_vectors\bin\Debug\lab_epam_vectors.exe
+C:\Users\Sergey\source\repos\lab_epam_vectors\bin\Debug\lab_epam_vectors.pdb
+C:\Users\Sergey\source\repos\lab_epam_vectors\obj\Debug\lab_epam_vectors.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_epam_vectors\obj\Debug\lab_epam_vectors.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_epam_vectors\obj\Debug\lab_epam_vectors.exe
+C:\Users\Sergey\source\repos\lab_epam_vectors\obj\Debug\lab_epam_vectors.pdb
