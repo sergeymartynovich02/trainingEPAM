@@ -13,7 +13,8 @@ namespace lab_epam_vectors
         {
 
 
-            StreamReader infile = new StreamReader(@"D:\git\lab_vectors\Inlet.txt");
+            StreamReader infile = new StreamReader("Inlet.txt");
+            StreamWriter outfile = new StreamWriter("Outlet.txt");
             char[] разделители = { ' ' }; 
             string[] mas = infile.ReadLine().Split(разделители, StringSplitOptions.RemoveEmptyEntries);
             string str = "";
@@ -35,8 +36,6 @@ namespace lab_epam_vectors
                 mas[min] = mas[i];
                 mas[i] = temp;
             }
-
-            StreamWriter outfile = new StreamWriter(@"D:\git\lab_vectors\Outlet.txt");
 
 
 
