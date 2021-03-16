@@ -11,7 +11,8 @@ namespace lab_strings
     {
         static void Main(string[] args)
         {
-            StreamReader infile = new StreamReader(@"D:\git\lab_strings\Inlet.txt");
+            StreamReader infile = new StreamReader("Inlet.txt");
+            StreamWriter outfile = new StreamWriter("Outlet.txt");
 
             string arr = infile.ReadLine();
             int length = arr.Length;
@@ -28,8 +29,6 @@ namespace lab_strings
                 temp[k] = arr[l];
                 k += 2;
             }
-
-            StreamWriter outfile = new StreamWriter(@"D:\git\lab_strings\Outlet.txt");
 
             outfile.WriteLine(temp);
             outfile.Close();

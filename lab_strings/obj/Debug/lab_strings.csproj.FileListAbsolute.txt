@@ -5,3 +5,10 @@ C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.csprojAssemblyRef
 C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.csproj.CoreCompileInputs.cache
 C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.exe
 C:\Users\Sergey\source\repos\lab_strings\obj\Debug\lab_strings.pdb
+D:\git\lab_strings\obj\Debug\lab_strings.csprojAssemblyReference.cache
+D:\git\lab_strings\obj\Debug\lab_strings.csproj.CoreCompileInputs.cache
+D:\git\lab_strings\obj\Debug\lab_strings.exe
+D:\git\lab_strings\obj\Debug\lab_strings.pdb
+D:\git\lab_strings\bin\Debug\lab_strings.exe.config
+D:\git\lab_strings\bin\Debug\lab_strings.exe
+D:\git\lab_strings\bin\Debug\lab_strings.pdb
