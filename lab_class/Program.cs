@@ -29,11 +29,11 @@ namespace lab_class
         double sideA;
         double sideB;
         double height;
-        public Paralelogram(double rectSideA, double rectSideB, double rectHeight)
+        public Paralelogram(double parSideA, double parSideB, double parHeight)
         {
-            sideA = rectSideA;
-            sideB = rectSideB;
-            height = rectHeight;
+            sideA = parSideA;
+            sideB = parSideB;
+            height = parHeight;
         }
         public double SideA
         {
