@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_matrix\bin\Debug\lab_matrix.exe.config
+C:\Users\Sergey\source\repos\lab_matrix\bin\Debug\lab_matrix.exe
+C:\Users\Sergey\source\repos\lab_matrix\bin\Debug\lab_matrix.pdb
+C:\Users\Sergey\source\repos\lab_matrix\obj\Debug\lab_matrix.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_matrix\obj\Debug\lab_matrix.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_matrix\obj\Debug\lab_matrix.exe
+C:\Users\Sergey\source\repos\lab_matrix\obj\Debug\lab_matrix.pdb
