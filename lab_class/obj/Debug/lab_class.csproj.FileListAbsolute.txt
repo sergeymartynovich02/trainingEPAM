@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_class\bin\Debug\lab_class.exe.config
+C:\Users\Sergey\source\repos\lab_class\bin\Debug\lab_class.exe
+C:\Users\Sergey\source\repos\lab_class\bin\Debug\lab_class.pdb
+C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.exe
+C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.pdb
