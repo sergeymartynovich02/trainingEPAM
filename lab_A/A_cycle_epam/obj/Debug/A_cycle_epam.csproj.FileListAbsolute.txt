@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\A_cycle_epam\obj\Debug\A_cycle_epam.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\A_cycle_epam\obj\Debug\A_cycle_epam.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\A_cycle_epam\bin\Debug\A_cycle_epam.exe.config
+C:\Users\Sergey\source\repos\A_cycle_epam\bin\Debug\A_cycle_epam.exe
+C:\Users\Sergey\source\repos\A_cycle_epam\bin\Debug\A_cycle_epam.pdb
+C:\Users\Sergey\source\repos\A_cycle_epam\obj\Debug\A_cycle_epam.exe
+C:\Users\Sergey\source\repos\A_cycle_epam\obj\Debug\A_cycle_epam.pdb
