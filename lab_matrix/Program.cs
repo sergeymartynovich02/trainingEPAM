@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace lab_matrix
@@ -88,6 +84,7 @@ namespace lab_matrix
                     matrix[N-1, i] = matrix[0, N - 1];
                 }
 
+
             }
             else 
             {
@@ -123,7 +120,13 @@ namespace lab_matrix
                 }
                 temp = G;
 
-
+                for (int i = 0; i < N; i++)
+                {
+                    matrix[i, 0] = matrix[0, N - 1];
+                    matrix[i, N - 1] = matrix[0, N - 1];
+                    matrix[0, i] = matrix[0, N - 1];
+                    matrix[N - 1, i] = matrix[0, N - 1];
+                }
 
 
 
