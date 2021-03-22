@@ -12,3 +12,10 @@ D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyRef
 D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
 D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.exe
 D:\git\Задание 4 лаба 1\Zadanie4\obj\Debug\Zadanie4.pdb
+D:\git\lab_KMV\Zadanie4\bin\Debug\Zadanie4.exe.config
+D:\git\lab_KMV\Zadanie4\bin\Debug\Zadanie4.exe
+D:\git\lab_KMV\Zadanie4\bin\Debug\Zadanie4.pdb
+D:\git\lab_KMV\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference.cache
+D:\git\lab_KMV\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+D:\git\lab_KMV\Zadanie4\obj\Debug\Zadanie4.exe
+D:\git\lab_KMV\Zadanie4\obj\Debug\Zadanie4.pdb

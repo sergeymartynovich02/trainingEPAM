@@ -15,17 +15,20 @@ namespace Zadanie4
             x = Convert.ToDouble(Console.ReadLine());
             if (Math.Abs(x)<1)
             {
-                Console.WriteLine("Вы ввели неверный х, запустите код программы заново и введите корректные данные");
+                Console.WriteLine("Вы ввели неверный х");
             }
             else
                 Console.WriteLine("Введите точность eps");
+
             eps = Convert.ToDouble(Console.ReadLine());
-            double term = (1/x), result = 0;
-            int k = 0;
-            while ((1/(2 * k + 1)) * term > eps)
+            double term = (1/x);
+            double result = 0;
+            int n = 0;
+            while ((1/(2 * n + 1)) * term > eps)
             {
-               result += (1/(2 * k++ + 1)) * term;
-                term *= 1 / x * x;
+               result += (1/(2 * n + 1)) * term;
+               term *= 1 / Math.Pow(x,(2 * n + 1));
+               n++;
             }
             Console.WriteLine("Значение суммы");
             Console.WriteLine(result);
