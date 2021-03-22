@@ -12,16 +12,7 @@ namespace lab_class
         public abstract string Perimeter();
         public abstract string FigureName();
 
-        public void Output()
-        {
-            Console.WriteLine(
-            $"\nЕсли Вы ввели отрицательное значение сторон или высоты, то это значение будет заменено на положительное\n\n" +
-            $"Название фигуры: {FigureName()}\n" +
-            $"Площадь: {Area()}\n" +
-            $"Периметр: {Perimeter()}"
-            );
-            Console.WriteLine();
-        }
+       
     }
 
     class Paralelogram : Figure
@@ -71,8 +62,14 @@ namespace lab_class
         static void Main()
         {
             Figure figure1 = new Paralelogram(10, 5, 9);
-            figure1.Output();
-            Console.ReadKey();
+            
+                Console.WriteLine(
+                $"\nЕсли Вы ввели отрицательное значение сторон или высоты, то это значение будет заменено на положительное\n\n" +
+                $"Название фигуры: {figure1.FigureName()}\n" +
+                $"Площадь: {figure1.Area()}\n" +
+                $"Периметр: {figure1.Perimeter()}");
+                Console.WriteLine();
+                Console.ReadKey();
         }
     }
 }
