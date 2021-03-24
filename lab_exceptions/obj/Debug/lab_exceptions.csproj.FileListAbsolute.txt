@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_exceptions\bin\Debug\lab_exceptions.exe.config
+C:\Users\Sergey\source\repos\lab_exceptions\bin\Debug\lab_exceptions.exe
+C:\Users\Sergey\source\repos\lab_exceptions\bin\Debug\lab_exceptions.pdb
+C:\Users\Sergey\source\repos\lab_exceptions\obj\Debug\lab_exceptions.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_exceptions\obj\Debug\lab_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_exceptions\obj\Debug\lab_exceptions.exe
+C:\Users\Sergey\source\repos\lab_exceptions\obj\Debug\lab_exceptions.pdb
