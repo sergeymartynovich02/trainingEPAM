@@ -61,7 +61,15 @@ namespace lab_class
     {
         static void Main()
         {
-            Figure figure1 = new Paralelogram(10, 5, 9);
+            int a, b, h;
+            Console.WriteLine("Введите значение первой стороны паралелограмма (а):");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введите значение второй стороны паралелограмма (b):");
+            b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Введите значение высоты паралелограмма (h):");
+            h = Convert.ToInt32(Console.ReadLine());
+
+            Figure figure1 = new Paralelogram(a, b, h);
             
                 Console.WriteLine(
                 $"\nЕсли Вы ввели отрицательное значение сторон или высоты, то это значение будет заменено на положительное\n\n" +

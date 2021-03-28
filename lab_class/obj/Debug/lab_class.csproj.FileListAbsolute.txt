@@ -5,3 +5,10 @@ C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.csprojAssemblyReferen
 C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.csproj.CoreCompileInputs.cache
 C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.exe
 C:\Users\Sergey\source\repos\lab_class\obj\Debug\lab_class.pdb
+D:\git\lab_class\bin\Debug\lab_class.exe.config
+D:\git\lab_class\bin\Debug\lab_class.exe
+D:\git\lab_class\bin\Debug\lab_class.pdb
+D:\git\lab_class\obj\Debug\lab_class.csprojAssemblyReference.cache
+D:\git\lab_class\obj\Debug\lab_class.csproj.CoreCompileInputs.cache
+D:\git\lab_class\obj\Debug\lab_class.exe
+D:\git\lab_class\obj\Debug\lab_class.pdb
