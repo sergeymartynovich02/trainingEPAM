@@ -48,18 +48,16 @@ namespace lab_exceptions
         // Умножение матрицы А на матрицу В
         public static Matrix umn(Matrix a, Matrix b)
         {
+            if(a.N != b.ST)
+            {
+                throw new MatrixExceptionSize(a, b);
+            }
             Matrix resMass = new Matrix(a.N, a.ST);
                 for (int i = 0; i < a.N; i++)
                     for (int j = 0; j < b.ST; j++)
                         for (int k = 0; k < b.N; k++)
                             resMass[i, j] += a[i, k] * b[k, j];
                 return resMass;
-   
-            
-            
-            
-
-            
         }
 
         // Перегрузка оператора умножения
@@ -67,8 +65,6 @@ namespace lab_exceptions
         {
             return Matrix.umn(a, b);
         }
-
-
 
 
         // Метод вычитания одной матрицы из другой

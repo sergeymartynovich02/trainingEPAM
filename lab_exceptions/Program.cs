@@ -172,28 +172,20 @@ namespace lab_exceptions
                     Console.WriteLine();
 
 
-                    if (nn == stlbc)
+                
+                    //Вывод на экран произведения матриц A и B
+                    Console.WriteLine("Произведение матриц A и B: ");
+                    mass6 = (mass1 * mass2);
+                    for (int i = 0; i < nn; i++)
                     {
-                        //Вывод на экран произведения матриц A и B
-                        Console.WriteLine("Произведение матриц A и B: ");
-                        mass6 = (mass1 * mass2);
-                        for (int i = 0; i < nn; i++)
+                        for (int j = 0; j < stlbc; j++)
                         {
-                            for (int j = 0; j < stlbc; j++)
-                            {
-                                Console.Write(mass6[i, j] + "\t");
-                            }
-                            Console.WriteLine();
+                            Console.Write(mass6[i, j] + "\t");
                         }
                         Console.WriteLine();
-                        Console.ReadKey();
                     }
-                    else
-                    {
-                        Console.WriteLine("Умножение матрицы А на матрицу Б невозможно по следующей причине: \nЧисло столбцов матрицы А совпадает с числом строк матрицы В.");
-                        Console.ReadKey();
-                    }
-
+                    Console.WriteLine();
+                    Console.ReadKey();
                 }
                 
             }
