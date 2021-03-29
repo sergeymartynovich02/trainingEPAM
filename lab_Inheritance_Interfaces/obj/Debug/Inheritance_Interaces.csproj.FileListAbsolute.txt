@@ -5,3 +5,10 @@ C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interac
 C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interaces.csproj.CoreCompileInputs.cache
 C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interaces.exe
 C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interaces.pdb
+D:\git\lab_Inheritance_Interfaces\bin\Debug\Inheritance_Interaces.exe.config
+D:\git\lab_Inheritance_Interfaces\bin\Debug\Inheritance_Interaces.exe
+D:\git\lab_Inheritance_Interfaces\bin\Debug\Inheritance_Interaces.pdb
+D:\git\lab_Inheritance_Interfaces\obj\Debug\Inheritance_Interaces.csprojAssemblyReference.cache
+D:\git\lab_Inheritance_Interfaces\obj\Debug\Inheritance_Interaces.csproj.CoreCompileInputs.cache
+D:\git\lab_Inheritance_Interfaces\obj\Debug\Inheritance_Interaces.exe
+D:\git\lab_Inheritance_Interfaces\obj\Debug\Inheritance_Interaces.pdb
