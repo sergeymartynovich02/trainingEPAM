@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\Inheritance_Interaces\bin\Debug\Inheritance_Interaces.exe.config
+C:\Users\Sergey\source\repos\Inheritance_Interaces\bin\Debug\Inheritance_Interaces.exe
+C:\Users\Sergey\source\repos\Inheritance_Interaces\bin\Debug\Inheritance_Interaces.pdb
+C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interaces.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interaces.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interaces.exe
+C:\Users\Sergey\source\repos\Inheritance_Interaces\obj\Debug\Inheritance_Interaces.pdb
