@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_Delegates_ping_pong\obj\Debug\lab_Delegates_ping_pong.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_Delegates_ping_pong\obj\Debug\lab_Delegates_ping_pong.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_Delegates_ping_pong\bin\Debug\lab_Delegates_ping_pong.exe.config
+C:\Users\Sergey\source\repos\lab_Delegates_ping_pong\bin\Debug\lab_Delegates_ping_pong.exe
+C:\Users\Sergey\source\repos\lab_Delegates_ping_pong\bin\Debug\lab_Delegates_ping_pong.pdb
+C:\Users\Sergey\source\repos\lab_Delegates_ping_pong\obj\Debug\lab_Delegates_ping_pong.exe
+C:\Users\Sergey\source\repos\lab_Delegates_ping_pong\obj\Debug\lab_Delegates_ping_pong.pdb

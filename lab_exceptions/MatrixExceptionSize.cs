@@ -10,19 +10,22 @@ namespace lab_exceptions
     {
         public MatrixExceptionSize(Matrix a, Matrix b)
         {
-            N = a.N;
-            ST = b.ST;
+            Na = a.Na;
+            STa = a.STa;
+            Nb = b.Nb;
+            STb = b.STb;
         }
 
-        private int N;
-        private int ST;
+        private int Na;
+        private int STa;
+        private int Nb;
+        private int STb;
 
         private string exinfo
         {
             get
             {
-                return $"Умножение матриц невозможно, потому что: \nЧисло столбцов матрицы А " +
-                    $"({N}) не совпадает с числом строк матрицы В ({ST})";
+                return $"Ошибка!!! Не совпадают размерности матриц! ";
             }
         }
 
