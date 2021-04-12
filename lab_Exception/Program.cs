@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace lab_Exception
 {
+    class MatrixSizeException : Exception
+    {
+        public MatrixSizeException(string message)
+            : base(message)
+        { }
+    }
     static class MatrixGetRowsColumns
     {
 
@@ -80,7 +86,7 @@ namespace lab_Exception
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        throw new Exception("Операция невозможна! Размерности матриц не совпадают.");
+                        throw new MatrixSizeException("Операция невозможна! Размерности матриц не совпадают.");
                         return matrixA;
                     }
                 }
@@ -107,7 +113,7 @@ namespace lab_Exception
 
                     catch (IndexOutOfRangeException)
                     {
-                        throw new Exception("Операция невозможна! Размерности матриц не совпадают.");
+                        throw new MatrixSizeException("Операция невозможна! Размерности матриц не совпадают.");
                         return matrixA;
                     }
 
@@ -138,7 +144,7 @@ namespace lab_Exception
                         }
                         catch (IndexOutOfRangeException)
                         {
-                            throw new Exception("Операция невозможна! Количество столбцов первой матрицы не равно количеству строк второй матрицы.");
+                            throw new MatrixSizeException("Операция невозможна! Количество столбцов первой матрицы не равно количеству строк второй матрицы.");
                             return matrixA;
                         }
                     }
@@ -165,7 +171,7 @@ namespace lab_Exception
                     catch (IndexOutOfRangeException)
                     {
 
-                        throw new Exception("Операция невозможна! Размерности матриц не совпадают.");
+                        throw new MatrixSizeException("Операция невозможна! Размерности матриц не совпадают.");
                         return matrixA;
                     }
 
