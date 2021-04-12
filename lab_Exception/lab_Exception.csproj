@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{60FC2C47-0AC8-4E29-976C-FC626D82EE9F}</ProjectGuid>
+    <ProjectGuid>{E988904F-9CA6-4946-881C-ADE4F3DD8D1D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lab_exceptions</RootNamespace>
-    <AssemblyName>lab_exceptions</AssemblyName>
+    <RootNamespace>lab_Exception</RootNamespace>
+    <AssemblyName>lab_Exception</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Matrix.cs" />
-    <Compile Include="MatrixExceptionSize.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

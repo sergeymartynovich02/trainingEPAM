@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("lab_exceptions")]
+[assembly: AssemblyTitle("lab_Exception")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("lab_exceptions")]
+[assembly: AssemblyProduct("lab_Exception")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("60fc2c47-0ac8-4e29-976c-fc626d82ee9f")]
+[assembly: Guid("e988904f-9ca6-4946-881c-ade4f3dd8d1d")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
