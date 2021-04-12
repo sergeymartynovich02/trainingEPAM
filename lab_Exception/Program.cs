@@ -9,7 +9,6 @@ namespace lab_Exception
     static class MatrixGetRowsColumns
     {
 
-
         // получение количества строк матрицы
         public static int RowsCount(this int[,] matrix)
         {
@@ -23,7 +22,6 @@ namespace lab_Exception
         }
 
     }
-
     class Matrix
     {
         // Метод для получения матрицы из консоли
@@ -83,6 +81,7 @@ namespace lab_Exception
                     catch (IndexOutOfRangeException)
                     {
                         throw new Exception("Операция невозможна! Размерности матриц не совпадают.");
+                        return matrixA;
                     }
                 }
             }
@@ -109,6 +108,7 @@ namespace lab_Exception
                     catch (IndexOutOfRangeException)
                     {
                         throw new Exception("Операция невозможна! Размерности матриц не совпадают.");
+                        return matrixA;
                     }
 
 
@@ -139,8 +139,8 @@ namespace lab_Exception
                         catch (IndexOutOfRangeException)
                         {
                             throw new Exception("Операция невозможна! Количество столбцов первой матрицы не равно количеству строк второй матрицы.");
+                            return matrixA;
                         }
-
                     }
                 }
             }
@@ -165,12 +165,12 @@ namespace lab_Exception
                     catch (IndexOutOfRangeException)
                     {
 
-                        throw new Exception("Операция невозможна! Количество столбцов первой матрицы не равно количеству строк второй матрицы.");
+                        throw new Exception("Операция невозможна! Размерности матриц не совпадают.");
+                        return matrixA;
                     }
 
                 }
             }
-
 
             return matrixC;
         }
