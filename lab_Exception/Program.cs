@@ -30,6 +30,8 @@ namespace lab_Exception
     }
     class Matrix
     {
+        
+
         // Метод для получения матрицы из консоли
         static int[,] GetMatrixFromConsole(string name)
         {
@@ -47,7 +49,7 @@ namespace lab_Exception
             {
                 for (var j = 0; j < c; j++)
                 {
-                    Console.Write("{0}[{1},{2}] = ", name, i, j);
+                    Console.Write("{0}[{1},{2}] = ", name, i+1, j+1);
                     matrix[i, j] = int.Parse(Console.ReadLine());
                 }
             }
@@ -72,6 +74,7 @@ namespace lab_Exception
         // Метод для сложения двух матриц
         static int[,] MatrixSum(int[,] matrixA, int[,] matrixB)
         {
+            
 
             var matrixC = new int[matrixA.RowsCount(), matrixB.ColumnsCount()];
 
@@ -84,10 +87,10 @@ namespace lab_Exception
                     {
                         matrixC[i, j] = matrixA[i, j] + matrixB[i, j];
                     }
-                    catch (IndexOutOfRangeException)
+                    catch (IndexOutOfRangeException ex)
                     {
-                        throw new MatrixSizeException("Операция невозможна! Размерности матриц не совпадают.");
-                        return matrixA;
+                        Console.WriteLine("ОШИБКА: " + ex.Message + "\n\n" );
+                        Main();
                     }
                 }
             }
@@ -111,10 +114,10 @@ namespace lab_Exception
                         matrixC[i, j] = matrixA[i, j] - matrixB[i, j];
                     }
 
-                    catch (IndexOutOfRangeException)
+                    catch (IndexOutOfRangeException ex)
                     {
-                        throw new MatrixSizeException("Операция невозможна! Размерности матриц не совпадают.");
-                        return matrixA;
+                        Console.WriteLine("ОШИБКА: " + ex.Message + "\n\n");
+                        Main();
                     }
 
 
@@ -127,6 +130,10 @@ namespace lab_Exception
         // Метод для умножения матриц
         static int[,] MatrixMultiplication(int[,] matrixA, int[,] matrixB)
         {
+            if (matrixA.RowsCount() != matrixB.RowsCount() && matrixA.ColumnsCount() != matrixB.RowsCount())
+            {
+                throw new MatrixSizeException("ОШИБКА: Размерности матриц не совпадают!");
+            }
 
             var matrixC = new int[matrixA.RowsCount(), matrixB.ColumnsCount()];
 
@@ -142,10 +149,10 @@ namespace lab_Exception
                         {
                             matrixC[i, j] += matrixA[i, k] * matrixB[k, j];
                         }
-                        catch (IndexOutOfRangeException)
+                        catch (IndexOutOfRangeException ex)
                         {
-                            throw new MatrixSizeException("Операция невозможна! Количество столбцов первой матрицы не равно количеству строк второй матрицы.");
-                            return matrixA;
+                            Console.WriteLine("ОШИБКА: " + ex.Message + "\n\n");
+                            Main();
                         }
                     }
                 }
@@ -168,11 +175,10 @@ namespace lab_Exception
                     {
                         matrixC[i, j] = 0;
                     }
-                    catch (IndexOutOfRangeException)
+                    catch (IndexOutOfRangeException ex)
                     {
-
-                        throw new MatrixSizeException("Операция невозможна! Размерности матриц не совпадают.");
-                        return matrixA;
+                        Console.WriteLine("ОШИБКА: " + ex.Message + "\n\n");
+                        Main();
                     }
 
                 }
@@ -181,7 +187,7 @@ namespace lab_Exception
             return matrixC;
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             var a = GetMatrixFromConsole("A");
             var b = GetMatrixFromConsole("B");
