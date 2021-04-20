@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_Delegates_Timer\bin\Debug\lab_Delegates_Timer.exe.config
+C:\Users\Sergey\source\repos\lab_Delegates_Timer\bin\Debug\lab_Delegates_Timer.exe
+C:\Users\Sergey\source\repos\lab_Delegates_Timer\bin\Debug\lab_Delegates_Timer.pdb
+C:\Users\Sergey\source\repos\lab_Delegates_Timer\obj\Debug\lab_Delegates_Timer.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_Delegates_Timer\obj\Debug\lab_Delegates_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_Delegates_Timer\obj\Debug\lab_Delegates_Timer.exe
+C:\Users\Sergey\source\repos\lab_Delegates_Timer\obj\Debug\lab_Delegates_Timer.pdb
