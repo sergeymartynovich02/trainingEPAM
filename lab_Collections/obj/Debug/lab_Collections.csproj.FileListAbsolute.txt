@@ -1,0 +1,7 @@
+C:\Users\Sergey\source\repos\lab_Collections\bin\Debug\lab_Collections.exe.config
+C:\Users\Sergey\source\repos\lab_Collections\bin\Debug\lab_Collections.exe
+C:\Users\Sergey\source\repos\lab_Collections\bin\Debug\lab_Collections.pdb
+C:\Users\Sergey\source\repos\lab_Collections\obj\Debug\lab_Collections.csprojAssemblyReference.cache
+C:\Users\Sergey\source\repos\lab_Collections\obj\Debug\lab_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\lab_Collections\obj\Debug\lab_Collections.exe
+C:\Users\Sergey\source\repos\lab_Collections\obj\Debug\lab_Collections.pdb
