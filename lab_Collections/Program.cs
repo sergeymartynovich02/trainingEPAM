@@ -52,7 +52,7 @@ namespace lab_Collections
                     Height = 0,
                     FirstName = "Данные отсутствуют ",
                     LastName = "Данные отсутствуют ",
-                    University = "Данные отсутствуют "
+                    University = "BrSTU "
                 };
                 var pu1 = new Pupils
                 {
