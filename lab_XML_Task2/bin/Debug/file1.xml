@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <person Attribute1="Andrey">
+    <username>Andrey</username>
+    <age>14</age>
+  </person>
+  <person Attribute1="Artoym">
+    <username>Artoym</username>
+    <age>18</age>
+  </person>
+  <person Attribute1="Denis">
+    <username>Denis</username>
+    <age>19</age>
+  </person>
+  <person Attribute1="Evgeniy">
+    <username>Evgeniy</username>
+    <age>11</age>
+  </person>
+  <person Attribute1="Max">
+    <username>Max</username>
+    <age>10</age>
+  </person>
+  <person Attribute1="Nikita">
+    <username>Nikita</username>
+    <age>13</age>
+  </person>
+  <person Attribute1="Sergey">
+    <username>Sergey</username>
+    <age>19</age>
+  </person>
+  <person Attribute1="Victor">
+    <username>Victor</username>
+    <age>21</age>
+  </person>
+  <person Attribute1="Vlad">
+    <username>Vlad</username>
+    <age>26</age>
+  </person>
+  <person Attribute1="Vladimir">
+    <username>Vladimir</username>
+    <age>22</age>
+  </person>
+</Root>
